@@ -4,6 +4,13 @@
     <vendor email="1035980884@qq.com" >摸鱼有限公司</vendor>
 
     <description><![CDATA[
+    Purpose: When you fish, you are making money!
+    Only Windows systems are supported,
+    Automatic identification of local TXT novel character format basically does not appear garbled situation
+    Support directory chapter jump
+
+    If you have any questions, please contact email: 1035980884@qq.com
+
     宗旨：当你摸鱼的时候，你才是赚钱!
     仅支持Windows系统，
     自动识别本地TXT小说字符格式基本上不会出现乱码情况
@@ -12,8 +19,7 @@
     如有问题请咨询邮箱：1035980884@qq.com
     ]]></description>
 
-    <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
-         on how to target different products -->
+
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
@@ -30,6 +36,6 @@
     </extensions>
 
     <actions>
-        <!-- Add your actions here -->
+
     </actions>
 </idea-plugin>
