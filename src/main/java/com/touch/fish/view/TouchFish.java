@@ -1,6 +1,5 @@
-package com.touch.fish.test;
+package com.touch.fish.view;
 
-import com.intellij.util.ui.FormBuilder;
 import org.jetbrains.annotations.NotNull;
 
 import javax.swing.*;

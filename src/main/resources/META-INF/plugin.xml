@@ -1,5 +1,5 @@
 <idea-plugin>
-    <id>com.touch.fish.test.TouchFish</id>
+    <id>com.touch.fish.view.TouchFish</id>
     <name>TouchFish</name>
     <vendor email="1035980884@qq.com" >摸鱼有限公司</vendor>
 

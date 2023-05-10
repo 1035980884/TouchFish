@@ -4,7 +4,7 @@ import com.intellij.openapi.options.Configurable;
 import com.intellij.openapi.options.ConfigurationException;
 import com.touch.fish.entity.bookSetting.Ini4jFileVo;
 import com.touch.fish.entity.bookSetting.IniFileEntity;
-import com.touch.fish.test.TouchFish;
+import com.touch.fish.view.TouchFish;
 import com.touch.fish.utils.Ini4jUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.jetbrains.annotations.Nls;

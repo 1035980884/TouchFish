@@ -20,8 +20,7 @@ dependencies {
     implementation 'org.apache.commons:commons-lang3:3.12.0'
     // https://mvnrepository.com/artifact/com.googlecode.juniversalchardet/juniversalchardet
     implementation group: 'com.googlecode.juniversalchardet', name: 'juniversalchardet', version: '1.0.3'
-// https://mvnrepository.com/artifact/com.1stleg/jnativehook
-    implementation group: 'com.1stleg', name: 'jnativehook', version: '2.1.0'
+
 
 
 

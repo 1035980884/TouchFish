@@ -1,4 +1,4 @@
-package com.touch.fish.test;
+package com.touch.fish.view;
 
 import com.touch.fish.entity.book.Ebook;
 import com.touch.fish.entity.bookSetting.Ini4jFileVo;
